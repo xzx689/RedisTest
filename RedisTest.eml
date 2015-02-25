@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inheritJdk="true">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="ihandy_utils-2.1.0.3.jar" scope="COMPILE">
+		<srcroot url="jar://C:/xu/tool/java/CommonJar/ihandy_utils-2.1.0.3-sources.jar!/"/>
+	</lib>
+	<levels>
+		<level name="redistest" value="project"/>
+	</levels>
+</component>
